@@ -95,13 +95,12 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <!--START_SECTION:waka-->
-## <h1 align="left">Waka Time Dev Metrics </h1>
-<div>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over last 7 days ' align='center' />
-</div>
-<br>
 
-## Weekly Development breakdown
+```text
+Markdown   2 hrs 48 mins   ███████████████████████▒░   93.98 %
+XML        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+```
 
 <!--END_SECTION:waka-->
 <br />
