@@ -94,6 +94,10 @@ You can click the Preview link to take a look at your changes.
 <div>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
+<br>
+
+## Weekly Development breakdown
+
 <!--END_SECTION:waka-->
 <br />
 
