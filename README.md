@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ## <h1 align="left">Waka Time Dev Metrics </h1>
-<div align='center'>
+<div>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
 <!--END_SECTION:waka-->
@@ -110,8 +110,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## <h1 align="left">📈 Streak Stats Heroku</h1>
-<div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=esther-kpet' alt='Heroku Streak stats' align='center' />
+<div >
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=esther-kpet' alt='Heroku Streak stats' />
 </div>
 
 
