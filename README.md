@@ -1,5 +1,7 @@
 ## <h1 align='center'> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I’m 🌸 @esther-kpet! 🌸</h1>
 <br />
+I'm a Full Stack Web Developer and UI/UX Designer and Freelancer. I Spend most of time  **coding outstanding projects** or listening to music.  
+<br>  
 
 - 👀 I’m interested in web development, devops and cloud computing.  
   
@@ -9,7 +11,7 @@
   <br>  
   
 ### Find Me On Online Channels:
-![Twitter Badge](https://img.shields.io/twitter/follow/es_kpet?style=social)
+![Twitter Badge](https://img.shields.io/twitter/follow/es_kpet?style=social)[![Mail Badge](https://img.shields.io/badge/-es_kpet?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHbnIppTZRyZEdS2K33uCMw) [![Linkedin Badge](https://img.shields.io/badge/-es_kpet?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-e-a-kpetemey/) [![Mail Badge](https://img.shields.io/badge/-@es_kpet?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/esther_kpet) [![Mail Badge](https://img.shields.io/badge/-es_kpet?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:agilelytm@yahoo.com)
 
 
 <!---
@@ -95,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <!--START_SECTION:waka-->
-
+## <h1 align="left">Waka Time</h1>
 ```text
 Markdown   2 hrs 48 mins   ███████████████████████▒░   93.98 %
 XML        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
