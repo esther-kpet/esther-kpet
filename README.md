@@ -101,4 +101,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br />
 
+## <h1 align="left">Profile Visits</h1>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=esther-kpet.esther-kpet&left_color=green&right_color=red)
+
+<br/>
+
+## <h1 align="left">GitHub Stats</h1>
+[![Esther Kpetemey's GitHub stats](https://github-readme-stats.vercel.app/api?username=esther-kpet&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
