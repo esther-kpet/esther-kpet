@@ -6,6 +6,11 @@
 - 🌱 I’m currently learning devops automation tools such as maven,jenkins,ansible,terraform, docker among others.  
 - 💞️ I’m looking to collaborate on a devops project to get hands-on practical skills and experiences.  
 - 📫 How to reach me: via email: agilelytm@yahoo.com
+  <br>  
+  
+### Find Me On Online Channels:
+![Twitter Badge](https://img.shields.io/twitter/follow/es_kpet?style=social)
+
 
 <!---
 esther-kpet/esther-kpet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
