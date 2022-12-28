@@ -113,8 +113,6 @@ Groovy       2 hrs 15 mins   >>-----------------------   06.73 %
 Properties   12 mins         -------------------------   00.60 %
 ```
 
-<div align='left'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over recent days' align='center' />
 </div>
 <br />
 <!--END_SECTION:waka-->
