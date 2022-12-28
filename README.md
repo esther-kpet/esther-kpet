@@ -101,11 +101,21 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs 48 mins   ███████████████████████▒░   93.98 %
-XML        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+From: 28 February 2021 - To: 27 December 2022
+
+Total Time: 33 hrs 32 mins
+
+XML          12 hrs 20 mins  >>>>>>>>>----------------   36.79 %
+Kotlin       11 hrs 28 mins  >>>>>>>>>----------------   34.19 %
+Dart         3 hrs 42 mins   >>>----------------------   11.04 %
+Markdown     3 hrs 17 mins   >>-----------------------   09.82 %
+Groovy       2 hrs 15 mins   >>-----------------------   06.73 %
+Properties   12 mins         -------------------------   00.60 %
 ```
 
+<div align='left'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over recent days' align='center' />
+</div>
 <br />
 <!--END_SECTION:waka-->
 <br />
