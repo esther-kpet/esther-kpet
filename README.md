@@ -76,20 +76,19 @@ You can click the Preview link to take a look at your changes.
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
-| [docuForce Mobile v2 (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart |
-| [docuForce Mobile v2 (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart |
-| [docuForce](https://docuforce.infologistics.ru/login) | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
-| docuForce Mobile v1 (Android) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
-| docuForce Mobile v1 (iOS) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
-| [RM-Keeper](https://rm-keeper.infologistics.ru) | <div align='center' title='Commercial'>💰</div> | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
-| [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | <div align='center' title='Commercial'>💰</div> | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
-| [RC-Lib](https://www.npmjs.com/package/@neikan/rc-lib) | <div align='center' title='Private'>🔑</div> | My pet-project: library for common frontend components | TypeScript, React, SASS/SCSS, Webpack, Storybook |
-| [Resume](https://neikan.pro) | <div align='center' title='Private'>🔑</div> | My private page | TypeScript, React, SASS/SCSS, Webpack |
-| [What To Watch](https://github.com/Neikan/htmlacademy-what-to-watch) | <div align='center' title='Training'>🎓</div> | The app for an online cinema with the ability to authorize, rate, comment and watch movies | JavaScript, React, Redux, Jest, Enzyme, Webpack |
-| [Cinemaddict](https://github.com/Neikan/htmlacademy-cinemaddict) | <div align='center' title='Training'>🎓</div> | The app for forming lists of movies: favorites, watched, planned for watching | JavaScript (ES6), Webpack |
-| [Keksobooking](https://github.com/Neikan/htmlacademy-keksobooking) | <div align='center' title='Training'>🎓</div> | The simple “booking”-like app prototype | JavaScript (ES5) |
-| [Cat Energy](https://github.com/Neikan/htmlacademy-cat-energy) | <div align='center' title='Training'>🎓</div> | The responsive app prototype to help you find the right nutrition for your cat | HTML, CSS, LESS, Gulp |
-| [Sedona](https://github.com/Neikan/htmlacademy-sedona) | <div align='center' title='Training'>🎓</div> | Business card site for a city in Arizona | HTML, CSS |
+| [Food Ordering App for Family Dinner (UI Design)](https://www.behance.net/agilely) | <div align='center' title='Persoanl Projec' >📋</div> | Current mobile App User Interface | Adobe XD, PhotoShop |
+| [Food Ordering App for Family Dinner (UX Design](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Persoanl Project' >📋</div> | Current mobile App User Experience Design | Adobe XD, JustInMind |
+| [Agilely Freelance](https://esther-kpet.github.io/agilely_freelance/index.html) | <div align='center' title='Private Agency Website'>💰</div> | Web Development, UI/UX Design and Digital Marketing Agency |  HTML5, CSS, JavaScript, SASS/SCSS, BootStrap |
+| Dummy Professional Website Design | <div align='center' title='Portfolio' >🚀</div> | Web Design for a fictive Agency | HTML5, JavaScript,SASS/SCSS, Git |
+| [Digital Clock 🕚 (Web)](https://esther-kpet.github.io/iva-clock.github.io/) | <div align='center' title='Portfolio' >👩‍💻</div> | Web App displaying current time | HTML5, JavaScript, Git, SASS/SCSS, GitHubPages |
+| Sloevour (e-commerce website)| <div align='center' title='Commercial'>💰</div> | Cloth and sports accessories ordering website | Shopify Partner |
+| [Full Pocket(UI Design)] | <div align='center' title='Internship'>📋</div> | Full UI Design for a Bank App(Internship) | Figma, PhotoShop |
+| [Personal Portfolio Website](https://portfolio.estherkpetemey.com/) | <div align='center' title='Personal Website'>👩‍💻</div> | My personal portfolio website: with my various projects and competences| JavaScript, HTML5, SASS/SCSS|
+|Alien Game| <div align='center' title='Private'>🚀</div> | GUI Game | Python, shell scripting| <div align='center' title='Training'>🎓</div> | Library Management System  |
+|eLib(GUI App)| <div align='center' title='College Minor Project'>🎓</div> | A library management system GUI app: adding books, finding authors, searching books, deleting books, etc | Python, PyMySQL, Tkinter | 
+|IvaTrivia| <div align='center' title='Training'>🎓</div> | Trivia Game: android app | Kotlin, Android Studio|
+|My Calculator| <div align='center' title='Personal Project'>👩‍💻</div> | A fully functional scientific calculator | Flutter, Dart|
+|Food Ordering App| <div align='center' title='Major Project'>🎓</div> |Online Food Ordering App|Kotlin, ANdroid Studio|
 <br />
 
 
