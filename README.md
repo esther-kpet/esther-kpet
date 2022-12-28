@@ -113,8 +113,6 @@ Groovy       2 hrs 15 mins   >>-----------------------   06.73 %
 Properties   12 mins         -------------------------   00.60 %
 ```
 
-</div>
-<br />
 <!--END_SECTION:waka-->
 <br />
 
