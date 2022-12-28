@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <!--START_SECTION:waka-->
-## <h1 align="left">Waka Time</h1>
+
 ```text
 Markdown   2 hrs 48 mins   ███████████████████████▒░   93.98 %
 XML        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
