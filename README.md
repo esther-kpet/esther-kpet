@@ -91,21 +91,21 @@ You can click the Preview link to take a look at your changes.
 |Food Ordering App| <div align='center' title='Major Project'>🎓</div> |Online Food Ordering App|Kotlin, ANdroid Studio|
 <br />
 
-
+## <h1 align="left">👩🏽‍💻 Waka Time Stats</h1>
+<div align='left'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over recent days' align='center' />
+</div>
 
 <br />
 
 <!--START_SECTION:waka-->
-## <h1 align="left">👩🏽‍💻 Waka Time Stats</h1>
+
 ```text
 Markdown   2 hrs 48 mins   ███████████████████████▒░   93.98 %
 XML        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
-<div align='left'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=dev_esther&layout=compact' alt='Languages over recent days' align='center' />
-</div>
 <br />
 <!--END_SECTION:waka-->
 <br />
