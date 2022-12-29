@@ -101,20 +101,18 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2021 - To: 27 December 2022
+From: 28 February 2021 - To: 28 December 2022
 
-Total Time: 33 hrs 32 mins
+Total Time: 38 hrs
 
-XML          12 hrs 20 mins  >>>>>>>>>----------------   36.79 %
-Kotlin       11 hrs 28 mins  >>>>>>>>>----------------   34.19 %
-Dart         3 hrs 42 mins   >>>----------------------   11.04 %
-Markdown     3 hrs 17 mins   >>-----------------------   09.82 %
-Groovy       2 hrs 15 mins   >>-----------------------   06.73 %
-Properties   12 mins         -------------------------   00.60 %
+XML          12 hrs 22 mins  >>>>>>>>-----------------   32.57 %
+Kotlin       11 hrs 28 mins  >>>>>>>>-----------------   30.17 %
+Markdown     5 hrs 15 mins   >>>----------------------   13.84 %
+Dart         3 hrs 42 mins   >>-----------------------   09.74 %
+Groovy       2 hrs 15 mins   >------------------------   05.94 %
+CSS          51 mins         >------------------------   02.27 %
 ```
 
-</div>
-<br />
 <!--END_SECTION:waka-->
 <br />
 
