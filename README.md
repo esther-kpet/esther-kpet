@@ -101,15 +101,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2021 - To: 07 June 2023
+From: 28 February 2021 - To: 08 June 2023
 
-Total Time: 78 hrs 53 mins
+Total Time: 83 hrs 50 mins
 
-XML          12 hrs 46 mins  >>>>---------------------   16.19 %
-HTML         12 hrs 40 mins  >>>>---------------------   16.07 %
-Markdown     11 hrs 44 mins  >>>>---------------------   14.89 %
-Kotlin       11 hrs 28 mins  >>>>---------------------   14.54 %
-PHP          7 hrs 40 mins   >>-----------------------   09.73 %
+HTML         16 hrs 49 mins  >>>>>--------------------   20.08 %
+XML          12 hrs 46 mins  >>>>---------------------   15.24 %
+Markdown     11 hrs 44 mins  >>>>---------------------   14.01 %
+Kotlin       11 hrs 28 mins  >>>----------------------   13.68 %
+PHP          7 hrs 40 mins   >>-----------------------   09.16 %
 ```
 
 <!--END_SECTION:waka-->
