@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ## 🔎 How to reach me:
-<p>Email me: <a href='mailto:kpetemeyesther@gmail.com'>here</a> or <a href='mailto:agilelytm@yahoo.com'>agilelytm@yahoo.com</a> or welcome to <a href='https://portfolio.estherkpetemey.com' alt='Esther Kpetemey Personal Portfolio Website' target='_blank'>my private website</a>!</p>
+<p>Email me: <a href='mailto:dev@estherkpetemey.com'>dev@estherkpetemey.com</a> or <a href='mailto:hello@agilely.site'>hello@agilely.site</a> or welcome to <a href='https://portfolio.estherkpetemey.com' alt='Esther Kpetemey Personal Portfolio Website' target='_blank'>my private website</a>!</p>
 
 
 🔬 **My future interests:**
