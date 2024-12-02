@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer and UI/UX Designer and Freelancer. I Spend most o
   
 - 🌱 I’m currently learning devops automation tools such as maven,jenkins,ansible,terraform, docker among others.  
 - 💞️ I’m looking to collaborate on a devops project to get hands-on practical skills and experiences.  
-- 📫 How to reach me: via email: agilelytm@yahoo.com
+- 📫 How to reach me: via email: dev@estherkpetemey.com
   <br>  
   
 ### Find Me On Online Channels:
