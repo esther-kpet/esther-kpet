@@ -1,12 +1,12 @@
 ## <h1 align='center'> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I’m 🌸 @esther-kpet! 🌸</h1>
 <br />
-I'm a Full Stack Web Developer and UI/UX Designer and Freelancer. I Spend most of time coding outstanding projects or listening to music.  
+I'm a UI/UX Designer || Full Stack Web Developer || Freelancer. I spend most of my time designing and coding projects or listening to music.  
 <br>  
 
-- 👀 I’m interested in web development, devops and cloud computing.  
+- 👀 I’m interested in web development, DevOps & cloud computing.  
   
-- 🌱 I’m currently learning devops automation tools such as maven,jenkins,ansible,terraform, docker among others.  
-- 💞️ I’m looking to collaborate on a devops project to get hands-on practical skills and experiences.  
+- 🌱 I’m currently learning DevOps automation tools such as Maven, Jenkins, ansible, terraform, and docker.  
+- 💞️ I’m looking to collaborate on a DevOps project to get hands-on practical skills and experiences.  
 - 📫 How to reach me: via email: dev@estherkpetemey.com
   <br>  
   
@@ -83,12 +83,12 @@ You can click the Preview link to take a look at your changes.
 | [Digital Clock 🕚 (Web)](https://esther-kpet.github.io/iva-clock.github.io/) | <div align='center' title='Portfolio' >👩‍💻</div> | Web App displaying current time | HTML5, JavaScript, Git, SASS/SCSS, GitHubPages |
 | Sloevour (e-commerce website)| <div align='center' title='Commercial'>💰</div> | Cloth and sports accessories ordering website | Shopify Partner |
 | [Full Pocket(UI Design)] | <div align='center' title='Internship'>📋</div> | Full UI Design for a Bank App(Internship) | Figma, PhotoShop |
-| [Personal Portfolio Website](https://portfolio.estherkpetemey.com/) | <div align='center' title='Personal Website'>👩‍💻</div> | My personal portfolio website: with my various projects and competences| JavaScript, HTML5, SASS/SCSS|
+| [Personal Portfolio Website](https://portfolio.estherkpetemey.com/) | <div align='center' title='Personal Website'>👩‍💻</div> | My portfolio website: with my various projects and competencies | JavaScript, HTML5, SASS/SCSS|
 |Alien Game| <div align='center' title='Private'>🚀</div> | GUI Game | Python, shell scripting| <div align='center' title='Training'>🎓</div> | Library Management System  |
 |eLib(GUI App)| <div align='center' title='College Minor Project'>🎓</div> | A library management system GUI app: adding books, finding authors, searching books, deleting books, etc | Python, PyMySQL, Tkinter | 
 |IvaTrivia| <div align='center' title='Training'>🎓</div> | Trivia Game: android app | Kotlin, Android Studio|
 |My Calculator| <div align='center' title='Personal Project'>👩‍💻</div> | A fully functional scientific calculator | Flutter, Dart|
-|Food Ordering App| <div align='center' title='Major Project'>🎓</div> |Online Food Ordering App|Kotlin, ANdroid Studio|
+|Food Ordering App| <div align='center' title='Major Project'>🎓</div> |Online Food Ordering App|Kotlin, Android Studio|
 <br />
 
 ## <h1 align="left">👩🏽‍💻 Waka Time Stats</h1>
