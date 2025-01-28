@@ -5,7 +5,8 @@ I'm a UI/UX Designer || Full Stack Web Developer || Freelancer. I spend most of 
 
 - 👀 I’m interested in web development, DevOps & cloud computing.  
   
-- 🌱 I’m currently learning DevOps automation tools such as Maven, Jenkins, ansible, terraform, and docker.  
+-  👩🏻‍💻 I'm working as the Leader designer at my current company.
+-  🌱 I’m currently learning DevOps automation tools such as Maven, Jenkins, ansible, terraform, and Docker.  
 - 💞️ I’m looking to collaborate on a DevOps project to get hands-on practical skills and experiences.  
 - 📫 How to reach me: via email: dev@estherkpetemey.com
   <br>  
@@ -116,7 +117,7 @@ Kotlin           11 hrs 28 mins  >>>----------------------   10.99 %
 <br />
 
 ## <h1 align="left">Profile Visits</h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=esther-kpet.esther-kpet&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=esther-kpet&color=dc143c&style=flat-square)
 
 <br/>
 
